@@ -1,5 +1,5 @@
 {
-  "name": "hazir-react",
+  "name": "redux-toolkit-thenews",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
